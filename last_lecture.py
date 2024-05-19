@@ -7,13 +7,13 @@ def task1():
 
 
 
-# WRITE A PYTHON PROGRAM TO WRITE A LONGEST WORND IN A STRING
-# WRITE A PYTHON PROGRAM TO CREATE MULTIPLE TEXT  FILE INSIDE SIGLE DIRECTORY
-# types of operations in python
-# operator overloading
+# WRITE A PYTHON PROGRAM TO WRITE A LONGEST WORND IN A STRING 
+# WRITE A PYTHON PROGRAM TO CREATE MULTIPLE TEXT FILE INSIDE SIGLE DIRECTORY 
+# types of operations in python 
+# operator overloading 
 # inheritance , polymorphism etc
-# conv binary to hexadecimal vice-versa
-# naman the dick suker
+# conv binary to hexadecimal vice-versa 
 # exceptionsal handeling 
 # creat a class for modeling a traingle
 # explain the concept of piplining as data stream
+

@@ -1,8 +1,10 @@
-# import pandas as pd 
+import pandas as pd 
 import csv
 filename = 'test.csv'
-variable = pd.read_csv('test.csv')
-variable.head()
+df = pd.read_csv('test.csv')
+print(df.head())
+print(df.tail())
+
 
 
 
